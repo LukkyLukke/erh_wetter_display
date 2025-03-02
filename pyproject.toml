@@ -1,0 +1,12 @@
+[project]
+name = "erh-wetter-display"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy>=2.2.3",
+    "opencv-python>=4.11.0.86",
+    "requests>=2.32.3",
+    "screeninfo>=0.8.1",
+]
